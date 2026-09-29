@@ -2,7 +2,7 @@
 
 A redesign studio site focused on content inventory, URL preservation and rebuilding a site as a working system.
 
-**[webredesignstudio.com](https://webredesignstudio.com/)** · [Srpski](README.sr.md)
+**[webredesignstudio.com](https://webredesignstudio.com/)** · [3D Art case study](https://webredesignstudio.com/en/case-studies/3d-art-gallery-and-services/) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > This is an independent project by D. Svilenković. The production source stays in a private repository; this public repository documents the work.
@@ -10,7 +10,7 @@ A redesign studio site focused on content inventory, URL preservation and rebuil
 <table>
   <tr><td><b>Type</b></td><td>Complete website redesign</td></tr>
   <tr><td><b>Languages</b></td><td>Serbian and English</td></tr>
-  <tr><td><b>Public routes</b></td><td>16 canonical pages</td></tr>
+  <tr><td><b>Public routes</b></td><td>18 canonical pages</td></tr>
   <tr><td><b>Role</b></td><td>Research, design, development, SEO, hosting and maintenance</td></tr>
   <tr><td><b>Stack</b></td><td>Astro, TypeScript, CSS, PHP 8.3, SQLite, nginx</td></tr>
 </table>
@@ -28,7 +28,7 @@ Digital restoration is the visual metaphor. Black-and-white fragments separate i
 - Inventory and redirect planning before visual work
 - Content, navigation and technical debt examined as separate layers
 - A reconstruction sequence tied to the written redesign method
-- Eight Serbian and eight English canonical routes
+- Nine Serbian and nine English canonical routes
 - Launch checks for responses, metadata, assets and protected paths
 
 ## Release checks

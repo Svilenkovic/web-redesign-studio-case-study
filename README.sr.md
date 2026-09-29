@@ -2,7 +2,7 @@
 
 Potpun redizajn sajta.
 
-**[webredesignstudio.com](https://webredesignstudio.com/)** · [English](README.md)
+**[webredesignstudio.com](https://webredesignstudio.com/)** · [Studija: 3D Art](https://webredesignstudio.com/studije/3d-art-galerija-i-usluge/) · [English](README.md)
 
 > [!NOTE]
 > Samostalni projekat D. Svilenkovića. Produkcijski izvor ostaje u privatnom repozitorijumu; ovaj javni repozitorijum dokumentuje izvedeni rad.
@@ -10,7 +10,7 @@ Potpun redizajn sajta.
 <table>
   <tr><td><b>Vrsta</b></td><td>Potpun redizajn sajta</td></tr>
   <tr><td><b>Jezici</b></td><td>srpski i engleski</td></tr>
-  <tr><td><b>Javne rute</b></td><td>16 canonical stranica</td></tr>
+  <tr><td><b>Javne rute</b></td><td>18 canonical stranica</td></tr>
   <tr><td><b>Uloga</b></td><td>istraživanje, dizajn, razvoj, SEO, hosting i održavanje</td></tr>
   <tr><td><b>Tehnologije</b></td><td>Astro, TypeScript, CSS, PHP 8.3, SQLite, nginx</td></tr>
 </table>
@@ -28,7 +28,7 @@ Digitalna restauracija je vizuelna metafora. Crno-beli fragmenti se razdvajaju n
 - Popis i plan preusmerenja pre vizuelnog rada
 - Sadržaj, navigacija i tehnički dug pregledani kao odvojeni slojevi
 - Sekvenca ponovne izgradnje vezana za opisani metod redizajna
-- Osam srpskih i osam engleskih canonical ruta
+- Devet srpskih i devet engleskih canonical ruta
 - Provere odgovora, meta podataka, resursa i zaštićenih putanja pri objavi
 
 ## Provere izdanja
