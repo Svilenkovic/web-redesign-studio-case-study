@@ -1,42 +1,58 @@
+<a href="https://webredesignstudio.com/"><img src="media/cover.jpg" alt="Web Redesign Studio, naslovna strana na laptopu i telefonu" width="100%"></a>
+
 # Web Redesign Studio
 
-Potpun redizajn sajta.
+Sajt studija za redizajn napravljen oko jednog redosleda: prvo spisak starih adresa i sadržaja, pa dizajn, pa provera selidbe.
 
-**[webredesignstudio.com](https://webredesignstudio.com/)** · [Studija: 3D Art](https://webredesignstudio.com/studije/3d-art-galerija-i-usluge/) · [English](README.md)
+**[webredesignstudio.com](https://webredesignstudio.com/)** · [Studija slučaja](https://svilenkovic.rs/radovi/web-redesign-studio) · [English](README.md)
 
 > [!NOTE]
-> Samostalni projekat D. Svilenkovića. Produkcijski izvor ostaje u privatnom repozitorijumu; ovaj javni repozitorijum dokumentuje izvedeni rad.
+> Moj sopstveni projekat, ne klijentski posao. Izvorni kod je privatan. Ova stranica opisuje šta sajt radi i kako je napravljen.
 
 <table>
-  <tr><td><b>Vrsta</b></td><td>Potpun redizajn sajta</td></tr>
-  <tr><td><b>Jezici</b></td><td>srpski i engleski</td></tr>
-  <tr><td><b>Javne rute</b></td><td>18 canonical stranica</td></tr>
-  <tr><td><b>Uloga</b></td><td>istraživanje, dizajn, razvoj, SEO, hosting i održavanje</td></tr>
-  <tr><td><b>Tehnologije</b></td><td>Astro, TypeScript, CSS, PHP 8.3, SQLite, nginx</td></tr>
+  <tr><td><b>Klijent</b></td><td>Sopstveni projekat</td></tr>
+  <tr><td><b>Delatnost</b></td><td>Potpun redizajn sajta</td></tr>
+  <tr><td><b>Lokacija</b></td><td>Srbija</td></tr>
+  <tr><td><b>Vrsta</b></td><td>Sajt sa više strana</td></tr>
+  <tr><td><b>Moj deo posla</b></td><td>Istraživanje, dizajn, izrada, SEO i hosting</td></tr>
+  <tr><td><b>Tehnologije</b></td><td>Astro 7, TypeScript, PHP 8.3, SQLite, nginx</td></tr>
 </table>
 
-## Namena
+## O projektu
 
-Redizajn može da poboljša izgled, a da ošteti korisne adrese, sadržaj ili forme. Ovaj projekat postojeći sajt tretira kao dokaz: pravi popis, odlučuje šta ostaje, ponovo gradi strukturu i proverava prelazak.
+Potpun redizajn je više od nove naslovne preko stare strukture. Pre crtanja treba znati koje adrese već postoje, šta posetioci traže, šta može da se sačuva i šta posle objave mora da se proveri. Web Redesign Studio je napravljen oko tog redosleda.
 
-## Dizajn pravac
+Uvodna scena rastavlja stari interfejs na delove i sklapa ga ponovo: ostaje ono što nosi smisao, menja se ono što smeta. Checklista za redizajn obuhvata sadržaj, funkcije, stare adrese, preusmerenja, forme i prikaz na telefonu, a posebna strana bavi se selidbom URL adresa, jer lep nov sajt ne pomaže ako stari linkovi vode u prazno. Sajt ne objavljuje procente rasta ni pozicije koje nisu izmerene.
 
-Digitalna restauracija je vizuelna metafora. Crno-beli fragmenti se razdvajaju na sadržaj, navigaciju i kod, pa se vraćaju kao zeleni, uređeni sistem.
+## Šta sam uradio
 
-## Šta je urađeno
+- Checklista za redizajn i poseban vodič za selidbu URL adresa
+- Strana za procenu redizajna i postupak korak po korak
+- Scena rekonstrukcije u crno-beloj boji sa zelenim signalom
+- Studija o galeriji i stranama usluga za 3D Art Kragujevac
+- Provere pri objavi za odgovore servera, metapodatke, fajlove i zaštićene putanje
 
-- Popis i plan preusmerenja pre vizuelnog rada
-- Sadržaj, navigacija i tehnički dug pregledani kao odvojeni slojevi
-- Sekvenca ponovne izgradnje vezana za opisani metod redizajna
-- Devet srpskih i devet engleskih canonical ruta
-- Provere odgovora, meta podataka, resursa i zaštićenih putanja pri objavi
+## Merenja
 
-## Provere izdanja
+| | Performanse | Pristupačnost | Dobre prakse | SEO |
+| :-- | :-: | :-: | :-: | :-: |
+| Telefon | 98 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
-Svaka canonical ruta proverena je na širinama 390, 768, 1440 i 1920 px. Izdanje je provereno i bez JavaScript-a i uz reduced-motion postavku. Žive provere obuhvatile su HTTPS, preusmerenja, zaglavlja odgovora, strukturirane podatke, sitemap fajlove, zaštićene putanje i neispravne kontakt zahteve bez slanja test poruka.
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `Organization`, `Person`.
 
-Ovo su inženjerske provere, a ne tvrdnje o poziciji u pretrazi ili terenskim performansama.
+## Snimci ekrana
+
+<table>
+  <tr>
+    <td width="68%" valign="top"><img src="media/desktop.webp" alt="Web Redesign Studio, naslovna strana na ekranu širine 1440 px"></td>
+    <td width="32%" valign="top"><img src="media/mobile.webp" alt="Web Redesign Studio, naslovna strana na telefonu"></td>
+  </tr>
+</table>
+
+<img src="media/inner-1.webp" alt="Checklista za redizajn na živom sajtu">
+<sub>Checklista za redizajn na živom sajtu</sub>
 
 ---
 
-<sub>Dizajn i izrada: [D. Svilenković](https://svilenkovic.com).</sub>
+<sub>Izrada: [D. Svilenković](https://svilenkovic.rs).</sub>

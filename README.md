@@ -1,42 +1,58 @@
+<a href="https://webredesignstudio.com/"><img src="media/cover.jpg" alt="Web Redesign Studio, home page on a laptop and a phone" width="100%"></a>
+
 # Web Redesign Studio
 
-A redesign studio site focused on content inventory, URL preservation and rebuilding a site as a working system.
+A redesign studio site built around one order of work: list the old URLs and content first, then design, then check the move.
 
-**[webredesignstudio.com](https://webredesignstudio.com/)** · [3D Art case study](https://webredesignstudio.com/en/case-studies/3d-art-gallery-and-services/) · [Srpski](README.sr.md)
+**[webredesignstudio.com](https://webredesignstudio.com/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/web-redesign-studio) · [Srpski](README.sr.md)
 
 > [!NOTE]
-> This is an independent project by D. Svilenković. The production source stays in a private repository; this public repository documents the work.
+> My own project, not client work. The source code is private. This page describes what the site does and how it is built.
 
 <table>
-  <tr><td><b>Type</b></td><td>Complete website redesign</td></tr>
-  <tr><td><b>Languages</b></td><td>Serbian and English</td></tr>
-  <tr><td><b>Public routes</b></td><td>18 canonical pages</td></tr>
-  <tr><td><b>Role</b></td><td>Research, design, development, SEO, hosting and maintenance</td></tr>
-  <tr><td><b>Stack</b></td><td>Astro, TypeScript, CSS, PHP 8.3, SQLite, nginx</td></tr>
+  <tr><td><b>Client</b></td><td>Own project</td></tr>
+  <tr><td><b>Industry</b></td><td>Complete website redesign</td></tr>
+  <tr><td><b>Location</b></td><td>Serbia</td></tr>
+  <tr><td><b>Type</b></td><td>Multi-page website</td></tr>
+  <tr><td><b>My role</b></td><td>Research, design, development, SEO and hosting</td></tr>
+  <tr><td><b>Stack</b></td><td>Astro 7, TypeScript, PHP 8.3, SQLite, nginx</td></tr>
 </table>
 
-## Purpose
+## About the project
 
-A redesign can improve the visible page and still damage useful URLs, content or forms. This project treats the existing site as evidence: inventory it, decide what stays, rebuild the structure and verify the move.
+A full redesign means more than a new home page laid over the old structure. Before drawing anything I need to know which addresses already exist, what visitors look for, what can be kept and what has to be checked after launch. Web Redesign Studio is built around that order.
 
-## Design direction
-
-Digital restoration is the visual metaphor. Black-and-white fragments separate into content, navigation and code, then return as a green, ordered system.
+The opening scene takes an old interface apart and puts it back together: what carries meaning stays, what gets in the way changes. The redesign checklist covers content, features, old URLs, redirects, forms and phone layouts, and a separate page deals with URL migration, because a good-looking new site does not help if old links lead nowhere. The site publishes no growth percentages or rankings that were never measured.
 
 ## What I built
 
-- Inventory and redirect planning before visual work
-- Content, navigation and technical debt examined as separate layers
-- A reconstruction sequence tied to the written redesign method
-- Nine Serbian and nine English canonical routes
+- A redesign checklist and a separate guide to URL migration
+- A page for estimating a redesign and a step-by-step process
+- A reconstruction scene in black and white with a green signal
+- A case study of the 3D Art Kragujevac gallery and service pages
 - Launch checks for responses, metadata, assets and protected paths
 
-## Release checks
+## Results
 
-Every canonical route was checked at 390, 768, 1440 and 1920 px. The release was also tested without JavaScript and with reduced motion. Live checks covered HTTPS, redirects, response headers, structured data, sitemap files, protected paths and invalid contact requests without sending test mail.
+| | Performance | Accessibility | Best practices | SEO |
+| :-- | :-: | :-: | :-: | :-: |
+| Mobile | 98 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
-These are engineering checks, not claims about search ranking or field performance.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. axe accessibility check: no violations. Structured data: `Organization`, `Person`.
+
+## Screenshots
+
+<table>
+  <tr>
+    <td width="68%" valign="top"><img src="media/desktop.webp" alt="Web Redesign Studio, home page on a 1440 px screen"></td>
+    <td width="32%" valign="top"><img src="media/mobile.webp" alt="Web Redesign Studio, home page on a phone"></td>
+  </tr>
+</table>
+
+<img src="media/inner-1.webp" alt="Redesign checklist on the live site">
+<sub>Redesign checklist on the live site</sub>
 
 ---
 
-<sub>Designed and built by [D. Svilenković](https://svilenkovic.com).</sub>
+<sub>Built by [D. Svilenković](https://svilenkovic.com).</sub>
