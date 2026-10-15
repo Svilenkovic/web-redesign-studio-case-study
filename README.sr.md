@@ -36,7 +36,7 @@ Uvodna scena rastavlja stari interfejs na delove i sklapa ga ponovo: ostaje ono 
 
 | | Performanse | Pristupačnost | Dobre prakse | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Telefon | 98 | 100 | 100 | 100 |
+| Telefon | 100 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
 PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `Organization`, `Person`.

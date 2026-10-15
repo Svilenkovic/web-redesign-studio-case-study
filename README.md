@@ -36,7 +36,7 @@ The opening scene takes an old interface apart and puts it back together: what c
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 98 | 100 | 100 | 100 |
+| Mobile | 100 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
 PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. axe accessibility check: no violations. Structured data: `Organization`, `Person`.
